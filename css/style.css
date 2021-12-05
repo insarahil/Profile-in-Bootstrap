@@ -1,0 +1,17 @@
+.icon a {
+  color: white;
+}
+
+.link-item:hover {
+  opacity: 0.5;
+  cursor: pointer;
+  box-shadow: 2px 3px 5px black;
+}
+
+#work img {
+  box-shadow: 2px 3px 5px black;
+}
+
+#work img:hover {
+  opacity: 0.5;
+}
